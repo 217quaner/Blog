@@ -1,4 +1,10 @@
-﻿## 需求
+﻿---
+layout: post
+title: Centos7离线安装Postgresql文档
+categories: centos7,postgresql
+---
+
+## 需求
 1. 是在centos下离线安装postgresql11.4，要求可以外网连接，需要详细部署步骤
 2. 要求访问端口改为9527
 3. 客户端可以使用pgadmin来测试连接
