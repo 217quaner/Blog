@@ -1,4 +1,8 @@
-﻿# Python3日志记录模块logging
+﻿---
+layout: post
+---
+
+# Python3日志记录模块logging
 
 ## 日志级别
 |日志等级|等级描述|

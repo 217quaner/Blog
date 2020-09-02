@@ -1,4 +1,8 @@
-﻿## 需求
+﻿---
+layout: post
+---
+
+## 需求
 1. 是在centos下离线安装requirements.txt中的包，需要详细部署步骤
 
 ## 安装requirements.txt

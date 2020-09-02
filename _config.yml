@@ -6,14 +6,10 @@ description:  Quaner's Blog
 
 show_excerpts: false
 
-# Minima date format
 minima:
   date_format: "%b %-d, %Y"
 
-# Build settings
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
  - jekyll-paginate

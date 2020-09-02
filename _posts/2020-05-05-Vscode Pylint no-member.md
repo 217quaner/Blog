@@ -1,4 +1,8 @@
-﻿# Vscode Pylint no-member（本答案仅适用于解决Django报错）
+﻿---
+layout: post
+---
+
+# Vscode Pylint no-member（本答案仅适用于解决Django报错）
 
 ## 错误信息
 Class 'XXX' has no 'object' member pylint(no-member)

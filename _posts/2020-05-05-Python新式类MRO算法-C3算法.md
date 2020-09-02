@@ -1,4 +1,8 @@
-﻿1. MRO
+﻿---
+layout: post
+---
+
+1. MRO
 Method Resolution Order,即方法解析顺序，是用来处理Python中的二义性问题的算法。
 2. 二义性
 Python因为支持多继承，而多继承的编程语言往往存在二义性问题。

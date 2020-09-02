@@ -3,7 +3,9 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
 
 # Vscode
 .vscode
+
+# Mac OS
+.DS_Store

@@ -1,4 +1,8 @@
-﻿# Python3读取Excel表格数据
+﻿---
+layout: post
+---
+
+# Python3读取Excel表格数据
 ## 步骤
 1. 导入xlrd包
 2. 打开excel文件

@@ -1,4 +1,8 @@
-﻿# gcc: internal compiler error: Killed (program cc1plus)
+﻿---
+layout: post
+---
+
+# gcc: internal compiler error: Killed (program cc1plus)
 
 ## 问题
 

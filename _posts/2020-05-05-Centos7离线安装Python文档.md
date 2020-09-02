@@ -1,4 +1,8 @@
-﻿## 需求
+﻿---
+layout: post
+---
+
+## 需求
 1. 在centos7.6下离线安装Python，需要详细部署步骤
 2. Python版本3.7.3
 

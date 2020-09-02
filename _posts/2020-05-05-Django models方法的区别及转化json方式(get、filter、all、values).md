@@ -1,4 +1,8 @@
-﻿# django models方法的区别(get、filter、all、values)
+﻿---
+layout: post
+---
+
+# django models方法的区别(get、filter、all、values)
 
 ## get
 

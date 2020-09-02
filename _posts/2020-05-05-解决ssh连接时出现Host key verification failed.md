@@ -1,4 +1,8 @@
-﻿# 解决SSH连接时出现Host key verification failed
+﻿---
+layout: post
+---
+
+# 解决SSH连接时出现Host key verification failed
 
 ## 原因
 

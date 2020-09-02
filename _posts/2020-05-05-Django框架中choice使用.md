@@ -1,4 +1,8 @@
-﻿# Django框架中choice使用
+﻿---
+layout: post
+---
+
+# Django框架中choice使用
 ## 原理
 choice接收一个元组（保证值不可变），同理每一个选项也是由一个元组（value,display_name）构成。
 

@@ -1,4 +1,8 @@
-﻿# Django values/values_list区别
+﻿---
+layout: post
+---
+
+# Django values/values_list区别
 ## values(*fields)
 返回QuerySet类型，迭代时返回字典。
 

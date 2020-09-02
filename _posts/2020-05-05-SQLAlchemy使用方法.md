@@ -1,4 +1,8 @@
-﻿# SQLAlchemy学习记录
+﻿---
+layout: post
+---
+
+# SQLAlchemy学习记录
 
 ## 一、关系定义
 
