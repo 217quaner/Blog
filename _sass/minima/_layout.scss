@@ -200,6 +200,15 @@
   flex: 1 0 auto;
 }
 
+// September 03, 2020
+// mobile optimize
+@media(max-width:767px){
+  .page-content {
+    padding: 15px 0;
+    flex: 1 0 auto;
+  }
+}
+
 .page-heading {
   @include relative-font-size(2);
 }

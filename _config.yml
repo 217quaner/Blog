@@ -14,4 +14,4 @@ theme: minima
 plugins:
  - jekyll-paginate
 
-paginate: 2
+paginate: 5
