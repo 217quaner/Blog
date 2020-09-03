@@ -1,8 +1,8 @@
-title: Quaner's Blog
+title: Quaner
 author:
   name: quaner
   email: 217quaner@gmail.com
-description:  Quaner's Blog
+description: Blog
 
 show_excerpts: false
 
@@ -13,3 +13,5 @@ theme: minima
 
 plugins:
  - jekyll-paginate
+
+paginate: 2
