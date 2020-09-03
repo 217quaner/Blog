@@ -122,7 +122,11 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  // September 03, 2020
+  // decrease footer padding
+  // padding: $spacing-unit 0;
+  // ToDo put site-footer background color in global
+  background-color: #f2f2f2;
 }
 
 .footer-heading {
