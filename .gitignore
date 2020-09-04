@@ -6,6 +6,7 @@ _site
 
 # Vscode
 .vscode
+.idea
 
 # Mac OS
 .DS_Store

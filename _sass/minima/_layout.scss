@@ -122,16 +122,16 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  // September 03, 2020
-  // decrease footer padding
-  // padding: $spacing-unit 0;
-  // ToDo put site-footer background color in global
-  background-color: #f2f2f2;
+  padding: $spacing-unit 0;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
+}
+
+.feed-subscribe .svg-icon {
+  padding: 5px 5px 2px 0
 }
 
 .contact-list,
@@ -202,15 +202,6 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
-}
-
-// September 03, 2020
-// mobile optimize
-@media(max-width:767px){
-  .page-content {
-    padding: 15px 0;
-    flex: 1 0 auto;
-  }
 }
 
 .page-heading {
